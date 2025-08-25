@@ -300,4 +300,4 @@ pytest
 *   **Testes:** Escreva testes abrangentes para todas as funcionalidades da API.
 ```
 
-Este é um guia inicial para construir sua API.
+Este é um guia inicial para construir a API.
