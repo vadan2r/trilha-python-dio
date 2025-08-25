@@ -50,20 +50,9 @@ Este projeto demonstra a criação de uma API RESTful assíncrona usando FastAPI
 Crie uma estrutura de diretórios para organizar o projeto:
 
 ```
-async_bank_api/
-├── app/
-│   ├── __init__.py
-│   ├── database.py   # Lógica de conexão com o banco de dados
-│   ├── models.py     # Definição dos modelos de dados (Conta, Transação, Usuário)
-│   ├── schemas.py    # Schemas Pydantic para validação e serialização
-│   ├── security.py   # Funções de segurança (hash de senha, JWT)
-│   ├── endpoints/
-│   │   ├── __init__.py
-│   │   ├── auth.py     # Endpoints de autenticação (login, registro)
-│   │   ├── accounts.py # Endpoints para contas (extrato, etc.)
-│   │   ├── transactions.py # Endpoints para transações (depósito, saque)
-│   └── main.py       # Ponto de entrada da aplicação FastAPI
-├── README.md
+
+<img width="569" height="315" alt="image" src="https://github.com/user-attachments/assets/9d49c89e-ab71-44bc-889c-77d24e31b1c3" />
+
 ```
 
 ### 3. Implementação
